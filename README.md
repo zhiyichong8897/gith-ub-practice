@@ -14,4 +14,4 @@ I am a first-year undergraduate student.
 - Monday: read lecture notes
 - Wednesday: review class examples
 - Friday: update this repository
-test
+test 
