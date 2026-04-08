@@ -10,3 +10,7 @@ I am a first-year undergraduate student.
 - How to create a repository
 - How to make commits
 - How to use pull requests
+## Weekly Study Plan
+- Monday: read lecture notes
+- Wednesday: review class examples
+- Friday: update this repository
